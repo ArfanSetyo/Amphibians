@@ -1,0 +1,6 @@
+<!--
+ fungsi dari strings.xml digunakan untuk menampilkan teks yang akan kita masukan pada aplikasi android.
+  -->
+<resources>
+    <string name="app_name">Amphibians</string>
+</resources>
